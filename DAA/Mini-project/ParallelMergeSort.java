@@ -1,4 +1,4 @@
-import java.util.Arrays;
+// import java.util.*;
 
 class ParallelMergeSort extends Thread {
     private int[] arr;
