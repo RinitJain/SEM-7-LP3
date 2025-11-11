@@ -4,3 +4,7 @@
 
 # Ignoring executable files
 a.out
+
+.DS_Store
+
+.ipynb_checkpoints
