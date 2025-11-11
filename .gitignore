@@ -1,2 +1,6 @@
 # Ignore all compiled Java class files
 *.class
+.vscode/
+
+# Ignoring executable files
+a.out
